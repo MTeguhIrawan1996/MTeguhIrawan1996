@@ -1,0 +1,18 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #ebe8d4c6;
+}
+
+#projects {
+  background-color: #ebe8d4c6;
+}
+
+.btn-costum {
+  color: #000;
+  background-color: #fde8a7;
+  border-color: #fde8a7;
+}
+
+section {
+  padding-top: 6rem;
+}
