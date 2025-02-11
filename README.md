@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm M Teguh Irawan</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<a href="https://app.daily.dev/onedev0"><img src="https://api.daily.dev/devcards/v2/Z8EFglGixwuo1G2BoXNyE.png?type=wide&r=u8f" width="652" alt="Teguh Irawan's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mteguhirawan1996&label=Profile%20views&color=0e75b6&style=flat" alt="mteguhirawan1996" /> </p>
 
